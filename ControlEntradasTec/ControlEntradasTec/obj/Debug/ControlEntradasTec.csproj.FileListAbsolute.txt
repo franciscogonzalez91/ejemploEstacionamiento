@@ -1,0 +1,11 @@
+C:\Users\Francisco\Documents\CursoCSharp\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.exe.config
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.exe.config
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.exe
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\bin\Debug\ControlEntradasTec.pdb
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.Properties.Resources.resources
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.csproj.GenerateResource.Cache
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.exe
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.pdb
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.Login.resources
+C:\Users\Francisco\Documents\Repositorios\Control Entradas\ControlEntradas\ControlEntradasTec\ControlEntradasTec\obj\Debug\ControlEntradasTec.Principal.resources
